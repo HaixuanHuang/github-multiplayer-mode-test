@@ -1,0 +1,10 @@
+Hello Daniel,
+
+Check out
+
+git log --graph
+
+if you haven't.
+
+Best,
+Haixuan
